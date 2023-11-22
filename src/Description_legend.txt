@@ -1,0 +1,17 @@
+List of Different object Descriptions
+
+Sphere (Air) Objects:
+
+    Helicopter (Friendly): RGB(0, 255, 0) (Green)
+    Helicopter (Neutral): RGB(255, 255, 0) (Yellow)
+    Helicopter (Hostile): RGB(255, 0, 0) (Red)
+Cube (Ground) Objects:
+
+    Criminal: RGB(139, 0, 0) (Dark Red)
+    Animal: RGB(255, 140, 0) (Dark Orange)
+    Child: RGB(255, 218, 185) (Peach)
+    Victim: RGB(0, 255, 255) (Cyan)
+    Bystander: RGB(0, 191, 255) (Deep Sky Blue)
+    Robot (Friendly): RGB(0, 128, 0) (Green)
+    Robot (Neutral): RGB(169, 169, 169) (Dark Gray)
+    Robot (Hostile): RGB(128, 0, 0) (Maroon)
